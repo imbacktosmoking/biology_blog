@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Biology_blog Blog</title>
-        <link>https://github.com/blog/blog</link>
+        <link>https://github.com/blog</link>
         <description>Biology_blog Blog</description>
         <lastBuildDate>Mon, 21 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Processes of plants and animal organ systems]]></title>
-            <link>https://github.com/blog/blog/Processes-of-plants-and-animal-organ-systems</link>
-            <guid>https://github.com/blog/blog/Processes-of-plants-and-animal-organ-systems</guid>
+            <link>https://github.com/blog/Processes-of-plants-and-animal-organ-systems</link>
+            <guid>https://github.com/blog/Processes-of-plants-and-animal-organ-systems</guid>
             <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Processes of Plant and Animal Organ Systems:]]></description>
             <content:encoded><![CDATA[<p>Processes of Plant and Animal Organ Systems:
@@ -20,8 +20,8 @@ Plants and animals have specialized organ systems that perform essential functio
         </item>
         <item>
             <title><![CDATA[Homeostasis and Organisms' Feedback Mechanisms]]></title>
-            <link>https://github.com/blog/blog/homeostasis-and-organisms-feedback-mechanisms</link>
-            <guid>https://github.com/blog/blog/homeostasis-and-organisms-feedback-mechanisms</guid>
+            <link>https://github.com/blog/homeostasis-and-organisms-feedback-mechanisms</link>
+            <guid>https://github.com/blog/homeostasis-and-organisms-feedback-mechanisms</guid>
             <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Homeostasis is the process by which organisms maintain a stable internal environment despite external changes. Feedback mechanisms, like negative feedback, play a key role. When a condition deviates from its set point (e.g., body temperature rises), receptors detect the change and send signals to effectors (like sweat glands) to counteract the change and restore balance. Positive feedback amplifies changes (e.g., blood clotting) until a goal is achieved.]]></description>
             <content:encoded><![CDATA[<p>Homeostasis is the process by which organisms maintain a stable internal environment despite external changes. Feedback mechanisms, like negative feedback, play a key role. When a condition deviates from its set point (e.g., body temperature rises), receptors detect the change and send signals to effectors (like sweat glands) to counteract the change and restore balance. Positive feedback amplifies changes (e.g., blood clotting) until a goal is achieved.</p>]]></content:encoded>
@@ -29,8 +29,8 @@ Plants and animals have specialized organ systems that perform essential functio
         </item>
         <item>
             <title><![CDATA[Recombinant DNA and Its Significance]]></title>
-            <link>https://github.com/blog/blog/recombinant-DNA-and-its-significance</link>
-            <guid>https://github.com/blog/blog/recombinant-DNA-and-its-significance</guid>
+            <link>https://github.com/blog/recombinant-DNA-and-its-significance</link>
+            <guid>https://github.com/blog/recombinant-DNA-and-its-significance</guid>
             <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Recombinant DNA technology involves combining genetic material from different sources to create novel DNA sequences. This technology has revolutionized medicine, agriculture, and industry. In medicine, it enables the production of therapeutic proteins (insulin, growth hormones). In agriculture, genetically modified organisms (GMOs) offer increased crop yields and resistance to pests. Recombinant DNA has also contributed to the development of gene therapy, helping treat genetic disorders.]]></description>
             <content:encoded><![CDATA[<p>Recombinant DNA technology involves combining genetic material from different sources to create novel DNA sequences. This technology has revolutionized medicine, agriculture, and industry. In medicine, it enables the production of therapeutic proteins (insulin, growth hormones). In agriculture, genetically modified organisms (GMOs) offer increased crop yields and resistance to pests. Recombinant DNA has also contributed to the development of gene therapy, helping treat genetic disorders.</p>]]></content:encoded>
