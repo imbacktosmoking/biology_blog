@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbiology_blog=self.webpackChunkbiology_blog||[]).push([[636],{83:o=>{o.exports=JSON.parse('{"label":"biology","permalink":"/biology_blog/blog/tags/biology","allTagsPath":"/biology_blog/blog/tags","count":3}')}}]);

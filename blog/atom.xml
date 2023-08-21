@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://biology_blog.github.io/biology_blog/blog</id>
+    <id>https://biology_blog.github.io/blog/blog</id>
     <title>Biology_blog Blog</title>
     <updated>2023-08-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://biology_blog.github.io/biology_blog/blog"/>
+    <link rel="alternate" href="https://biology_blog.github.io/blog/blog"/>
     <subtitle>Biology_blog Blog</subtitle>
-    <icon>https://biology_blog.github.io/biology_blog/img/amongus.avif</icon>
+    <icon>https://biology_blog.github.io/blog/img/amongus.avif</icon>
     <entry>
         <title type="html"><![CDATA[Processes of plants and animal organ systems]]></title>
-        <id>https://biology_blog.github.io/biology_blog/blog/Processes-of-plants-and-animal-organ-systems</id>
-        <link href="https://biology_blog.github.io/biology_blog/blog/Processes-of-plants-and-animal-organ-systems"/>
+        <id>https://biology_blog.github.io/blog/blog/Processes-of-plants-and-animal-organ-systems</id>
+        <link href="https://biology_blog.github.io/blog/blog/Processes-of-plants-and-animal-organ-systems"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Processes of Plant and Animal Organ Systems:]]></summary>
         <content type="html"><![CDATA[<p>Processes of Plant and Animal Organ Systems:
@@ -23,8 +23,8 @@ Plants and animals have specialized organ systems that perform essential functio
     </entry>
     <entry>
         <title type="html"><![CDATA[Homeostasis and Organisms' Feedback Mechanisms]]></title>
-        <id>https://biology_blog.github.io/biology_blog/blog/homeostasis-and-organisms-feedback-mechanisms</id>
-        <link href="https://biology_blog.github.io/biology_blog/blog/homeostasis-and-organisms-feedback-mechanisms"/>
+        <id>https://biology_blog.github.io/blog/blog/homeostasis-and-organisms-feedback-mechanisms</id>
+        <link href="https://biology_blog.github.io/blog/blog/homeostasis-and-organisms-feedback-mechanisms"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Homeostasis is the process by which organisms maintain a stable internal environment despite external changes. Feedback mechanisms, like negative feedback, play a key role. When a condition deviates from its set point (e.g., body temperature rises), receptors detect the change and send signals to effectors (like sweat glands) to counteract the change and restore balance. Positive feedback amplifies changes (e.g., blood clotting) until a goal is achieved.]]></summary>
         <content type="html"><![CDATA[<p>Homeostasis is the process by which organisms maintain a stable internal environment despite external changes. Feedback mechanisms, like negative feedback, play a key role. When a condition deviates from its set point (e.g., body temperature rises), receptors detect the change and send signals to effectors (like sweat glands) to counteract the change and restore balance. Positive feedback amplifies changes (e.g., blood clotting) until a goal is achieved.</p>]]></content>
@@ -36,8 +36,8 @@ Plants and animals have specialized organ systems that perform essential functio
     </entry>
     <entry>
         <title type="html"><![CDATA[Recombinant DNA and Its Significance]]></title>
-        <id>https://biology_blog.github.io/biology_blog/blog/recombinant-DNA-and-its-significance</id>
-        <link href="https://biology_blog.github.io/biology_blog/blog/recombinant-DNA-and-its-significance"/>
+        <id>https://biology_blog.github.io/blog/blog/recombinant-DNA-and-its-significance</id>
+        <link href="https://biology_blog.github.io/blog/blog/recombinant-DNA-and-its-significance"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Recombinant DNA technology involves combining genetic material from different sources to create novel DNA sequences. This technology has revolutionized medicine, agriculture, and industry. In medicine, it enables the production of therapeutic proteins (insulin, growth hormones). In agriculture, genetically modified organisms (GMOs) offer increased crop yields and resistance to pests. Recombinant DNA has also contributed to the development of gene therapy, helping treat genetic disorders.]]></summary>
         <content type="html"><![CDATA[<p>Recombinant DNA technology involves combining genetic material from different sources to create novel DNA sequences. This technology has revolutionized medicine, agriculture, and industry. In medicine, it enables the production of therapeutic proteins (insulin, growth hormones). In agriculture, genetically modified organisms (GMOs) offer increased crop yields and resistance to pests. Recombinant DNA has also contributed to the development of gene therapy, helping treat genetic disorders.</p>]]></content>
