@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbiology_blog=self.webpackChunkbiology_blog||[]).push([[6],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
