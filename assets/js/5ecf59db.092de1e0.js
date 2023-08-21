@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbiology_blog=self.webpackChunkbiology_blog||[]).push([[891],{776:o=>{o.exports=JSON.parse('{"permalink":"/homepage/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
