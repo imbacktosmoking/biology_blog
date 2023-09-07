@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbiology_blog=self.webpackChunkbiology_blog||[]).push([[743],{7574:(e,t,l)=>{l.r(t),l.d(t,{default:()=>n});var a=l(7294),u=l(7961);function n(){return a.createElement(u.Z,null,a.createElement("h1",null,"About"),a.createElement("p",null," So like this is the about page and its about the people and the cause of this page"))}}}]);
