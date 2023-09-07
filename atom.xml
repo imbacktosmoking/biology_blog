@@ -2,47 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/biology_blog/</id>
     <title>Biology_blog Blog</title>
-    <updated>2023-08-21T00:00:00.000Z</updated>
+    <updated>2023-08-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/biology_blog/"/>
     <subtitle>Biology_blog Blog</subtitle>
     <icon>https://github.com/biology_blog/img/Untitled.png</icon>
     <entry>
-        <title type="html"><![CDATA[Processes of plants and animal organ systems]]></title>
+        <title type="html"><![CDATA[Processes of the functions animal organ systems]]></title>
         <id>https://github.com/biology_blog/Processes-of-plants-and-animal-organ-systems</id>
         <link href="https://github.com/biology_blog/Processes-of-plants-and-animal-organ-systems"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Processes of Plant and Animal Organ Systems:]]></summary>
-        <content type="html"><![CDATA[<p>Processes of Plant and Animal Organ Systems:
-Plants and animals have specialized organ systems that perform essential functions. In plants, photosynthesis occurs in the leaves, where they convert sunlight into energy. Roots absorb water and nutrients from the soil. In animals, the circulatory system pumps blood to transport oxygen and nutrients. The respiratory system exchanges gases, while the digestive system processes food and absorbs nutrients. The nervous system coordinates communication, and the musculoskeletal system allows movement and support.</p>]]></content>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The animal organ systems are responsible for numerous functions, namely, reproduction, development, nutrition, gas exchange, transport or circulation, regulation of body fluids, chemical and nervous control, immune systems, and sensory and motor mechanisms.]]></summary>
+        <content type="html"><![CDATA[<p>The animal organ systems are responsible for numerous functions, namely, reproduction, development, nutrition, gas exchange, transport or circulation, regulation of body fluids, chemical and nervous control, immune systems, and sensory and motor mechanisms.</p><p>Reproduction:</p><p>Development: Animals develop following </p><p>Nutrition: Animals require carbohydrates, proteins, fats, and essential nutrients that include essential amino acids, essential fatty acids, and vitamins for their nutrition.</p><p>Gas Exchange:</p><p>Transport/Circulation:</p><p>Regulation of Body Fluids:</p><p>Chemical and Nervous Control:</p><p>Immune Systems:</p><p>Sensory and Motor Mechanisms:</p>]]></content>
         <author>
-            <name>Jose Romualdo M. Bibera</name>
+            <name>Bethany Co</name>
             <uri>https://github.com/imbacktosmoking</uri>
         </author>
         <category label="biology" term="biology"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Homeostasis and Organisms' Feedback Mechanisms]]></title>
-        <id>https://github.com/biology_blog/homeostasis-and-organisms-feedback-mechanisms</id>
-        <link href="https://github.com/biology_blog/homeostasis-and-organisms-feedback-mechanisms"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[Process of the Functions of Plant Organ Systems]]></title>
+        <id>https://github.com/biology_blog/Process-of-the-Functions-of-Plant-Organ-Systems</id>
+        <link href="https://github.com/biology_blog/Process-of-the-Functions-of-Plant-Organ-Systems"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Homeostasis is the process by which organisms maintain a stable internal environment despite external changes. Feedback mechanisms, like negative feedback, play a key role. When a condition deviates from its set point (e.g., body temperature rises), receptors detect the change and send signals to effectors (like sweat glands) to counteract the change and restore balance. Positive feedback amplifies changes (e.g., blood clotting) until a goal is achieved.]]></summary>
         <content type="html"><![CDATA[<p>Homeostasis is the process by which organisms maintain a stable internal environment despite external changes. Feedback mechanisms, like negative feedback, play a key role. When a condition deviates from its set point (e.g., body temperature rises), receptors detect the change and send signals to effectors (like sweat glands) to counteract the change and restore balance. Positive feedback amplifies changes (e.g., blood clotting) until a goal is achieved.</p>]]></content>
         <author>
-            <name>Jose Romualdo M. Bibera</name>
+            <name>Ephraim Ong</name>
             <uri>https://github.com/imbacktosmoking</uri>
         </author>
         <category label="biology" term="biology"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recombinant DNA and Its Significance]]></title>
-        <id>https://github.com/biology_blog/recombinant-DNA-and-its-significance</id>
-        <link href="https://github.com/biology_blog/recombinant-DNA-and-its-significance"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[Current-Uses-of-Recombinant-DNA]]></title>
+        <id>https://github.com/biology_blog/Current-Uses-of-Recombinant-DNA</id>
+        <link href="https://github.com/biology_blog/Current-Uses-of-Recombinant-DNA"/>
+        <updated>2023-08-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Recombinant DNA technology involves combining genetic material from different sources to create novel DNA sequences. This technology has revolutionized medicine, agriculture, and industry. In medicine, it enables the production of therapeutic proteins (insulin, growth hormones). In agriculture, genetically modified organisms (GMOs) offer increased crop yields and resistance to pests. Recombinant DNA has also contributed to the development of gene therapy, helping treat genetic disorders.]]></summary>
         <content type="html"><![CDATA[<p>Recombinant DNA technology involves combining genetic material from different sources to create novel DNA sequences. This technology has revolutionized medicine, agriculture, and industry. In medicine, it enables the production of therapeutic proteins (insulin, growth hormones). In agriculture, genetically modified organisms (GMOs) offer increased crop yields and resistance to pests. Recombinant DNA has also contributed to the development of gene therapy, helping treat genetic disorders.</p>]]></content>
         <author>
-            <name>Jose Romualdo M. Bibera</name>
+            <name>Bea Stephanie</name>
+            <uri>https://github.com/imbacktosmoking</uri>
+        </author>
+        <category label="biology" term="biology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Homeostasis is Maintained by Expounding Organisms’ Feedback Mechanisms]]></title>
+        <id>https://github.com/biology_blog/How-Homeostasis-is-Maintained-by-Expounding-Organisms’-Feedback-Mechanisms</id>
+        <link href="https://github.com/biology_blog/How-Homeostasis-is-Maintained-by-Expounding-Organisms’-Feedback-Mechanisms"/>
+        <updated>2023-08-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recombinant DNA technology involves combining genetic material from different sources to create novel DNA sequences. This technology has revolutionized medicine, agriculture, and industry. In medicine, it enables the production of therapeutic proteins (insulin, growth hormones). In agriculture, genetically modified organisms (GMOs) offer increased crop yields and resistance to pests. Recombinant DNA has also contributed to the development of gene therapy, helping treat genetic disorders.]]></summary>
+        <content type="html"><![CDATA[<p>Recombinant DNA technology involves combining genetic material from different sources to create novel DNA sequences. This technology has revolutionized medicine, agriculture, and industry. In medicine, it enables the production of therapeutic proteins (insulin, growth hormones). In agriculture, genetically modified organisms (GMOs) offer increased crop yields and resistance to pests. Recombinant DNA has also contributed to the development of gene therapy, helping treat genetic disorders.</p>]]></content>
+        <author>
+            <name>Freya Hermosilla</name>
+            <uri>https://github.com/imbacktosmoking</uri>
+        </author>
+        <category label="biology" term="biology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recombinant DNA’s Significance to Society]]></title>
+        <id>https://github.com/biology_blog/Recombinant-DNA’s-Significance-to-Society</id>
+        <link href="https://github.com/biology_blog/Recombinant-DNA’s-Significance-to-Society"/>
+        <updated>2023-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recombinant DNA technology is a significant advancement in science that has greatly facilitated human life. It has developed methods for medicinal applications recently, particularly for the creation of vaccines and protein medicines like human insulin, interferon, and growth hormone. It also aids in the creation of gene therapy and the production of clotting factors for the treatment of hemophilia. The advancements it made not only in people but also in plants and microorganisms are quite significant. The obstacles in enhancing goods at the gene level occasionally present severe challenges that must be resolved for the benefit of the future of recombinant DNA technology.]]></summary>
+        <content type="html"><![CDATA[<p>Recombinant DNA technology is a significant advancement in science that has greatly facilitated human life. It has developed methods for medicinal applications recently, particularly for the creation of vaccines and protein medicines like human insulin, interferon, and growth hormone. It also aids in the creation of gene therapy and the production of clotting factors for the treatment of hemophilia. The advancements it made not only in people but also in plants and microorganisms are quite significant. The obstacles in enhancing goods at the gene level occasionally present severe challenges that must be resolved for the benefit of the future of recombinant DNA technology.</p>]]></content>
+        <author>
+            <name>Aisha Memon</name>
             <uri>https://github.com/imbacktosmoking</uri>
         </author>
         <category label="biology" term="biology"/>
